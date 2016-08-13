@@ -1,10 +1,10 @@
 # Installing
 ```sh
-$git clone https://github.com/hellsalve017196/space_invaders
+git clone https://github.com/hellsalve017196/space_invaders
 
-$cd space_invaders
+cd space_invaders
 
-$python -m SimpleHTTPServer
+python -m SimpleHTTPServer
 ```
 
 # demo
