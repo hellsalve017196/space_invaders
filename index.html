@@ -171,6 +171,13 @@
                     }
                 }
 
+                if((b.x > tank.x) && (b.x < (tank.x + 20)) && (b.y == tank.y))
+                {
+                    alert("game over")
+                    location.reload();
+                }
+
+
                 for(var j = 0,len2 = aliens.length; j < len2;j++)
                 {
                     var a = aliens[j];
