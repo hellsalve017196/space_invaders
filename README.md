@@ -10,7 +10,7 @@ go to "http://localhost:8000"
 ```
 
 # demo
-http://agatafeedmill.com/space_invaders/
+http://www.aliabdullahkhan.info/projects/space_invaders
 
 # controlls
 space = for shoting
