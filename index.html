@@ -144,7 +144,7 @@
             tank.x = Math.max(Math.min(tank.x,(screen.width - 30 - taSprite.w)),30)
 
 
-            if(input.isPressed(32)) { // gun shot
+            if(input.isPressed(65)) { // gun shot
                 bullets.push(new Bullet(tank.x + 10,tank.y,-8,2,6,"#fff"));
             }
 
